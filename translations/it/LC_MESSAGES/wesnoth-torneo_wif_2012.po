@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-11-03 08:58+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mich <maresi.michele@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [multiplayer]: id=torneo_wif_2010
+#: torneo_wif_2010/torneo_wif_2010.cfg:6
+msgid "Tournament W.I.F. 2010 (by Dret)"
+msgstr "Torneo W.I.F. 2010 (by Dret)"
+
+#. [side]: type=Silver Mage
+#: torneo_wif_2010/torneo_wif_2010.cfg:26
+msgid "good"
+msgstr "buoni"
+
+#. [side]: type=Silver Mage
+#: torneo_wif_2010/torneo_wif_2010.cfg:49
+msgid "evil"
+msgstr "cattivi"
+
+#. [multiplayer]: id=torneo_wif_2010
+#: torneo_wif_2010/torneo_wif_2010.cfg:133
+msgid "Dimensional Vortex"
+msgstr "Vortice Dimensionale"
+
+#. [multiplayer]: id=torneo_wif_2010
+#: torneo_wif_2010/torneo_wif_2010.cfg:155
+msgid "Magic Source"
+msgstr "Sorgente Magica"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:190
+msgid "<span foreground='green'>Tactical Victory</span>"
+msgstr "<span foreground='green'>Vittoria Tattica</span>"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:194
+msgid ""
+"\n"
+"<big>WINNER IS <span foreground='green'>$varWinnerName</span></big>\n"
+" \n"
+"<span foreground='orange'>$varWinnerName owns all six magic sources</span>"
+msgstr ""
+"\n"
+"<big>IL VINCITORE  È<span foreground='green'>$varWinnerName</span></big>\n"
+" \n"
+"<span foreground='orange'>$varWinnerName occupa tutte le sei sorgenti magiche</span>"
+
+#. [unstore_unit]
+#: torneo_wif_2010/torneo_wif_2010.cfg:455
+msgid "Blink!"
+msgstr "Blink!"
+
+#. [objectives]
+#: torneo_wif_2010/torneo_wif_2010.cfg:573
+msgid "WIF Tournament 2010"
+msgstr "Torneo WIF 2010"
+
+#. [objective]: condition=win
+#: torneo_wif_2010/torneo_wif_2010.cfg:575
+msgid "Defeat your opponent or conquer the 6 magic Sources!"
+msgstr "Sconfiggi il tuo avversario oppure conquista le 6 Sorgenti magiche!"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:594
+msgid "CAUTION!! Before starting playing: "
+msgstr "ATTENZIONE!! Prima di iniziare a giocare: "
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:607
+msgid ""
+"\n"
+"<span foreground='red'>DID YOU SET THE GAME CORRECTLY?</span>\n"
+" \n"
+"<big>Check this Options:\n"
+" \n"
+"'Use map settings' MUST BE ENABLED\n"
+" \n"
+"'Show Haloing Effects' (in Display Preferences) MUST BE ENABLED\n"
+" \n"
+"'Observers' MUST BE DISABLED (with the exception expected in the rules, avaiable in the dedicated post in our forum)\n"
+" \n"
+"                   OTHERWISE                       \n"
+"            THE GAME WILL BE ANNULED</big>"
+msgstr ""
+"\n"
+"<span foreground='red'>HAI SETTATO CORRETTAMENTE LA PARTITA?</span>\n"
+" \n"
+"<big>Controlla queste Opzioni:\n"
+" \n"
+"'Usa le impostazioni della mappa' DEVE ESSERE ABILITATA\n"
+" \n"
+"'Mostra Alone' (in Preferenze Video) DEVE ESSERE ABILITATA\n"
+" \n"
+"'Osservatori' DEVE ESSERE DISABILITATA con l'eccezione prevista nel regolamento, disponibile alla consultazione nel post dedicato sul nostro forum)\n"
+" \n"
+"                   IN CASO CONTRARIO                       \n"
+"            LA PARTITA VERRA' ANNULLATA</big>"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:615
+msgid "         IV° Tournament W.I.F. 2010"
+msgstr "            IV° Torneo W.I.F. 2010"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:630
+msgid ""
+" \n"
+"<big>                    IV° Italian Tournament \n"
+"                     of Battle for Wesnoth</big>\n"
+" \n"
+"                                  organized by:\n"
+" \n"
+"<big>                                  W.I.F.\n"
+"              WESNOTH ITALIAN FORUM                    \n"
+"                 http://wif.altervista.org\n"
+" \n"
+" Map designer and original scenario coder: Dret\n"
+" WML enhancers and bug fixers: mich and Nobun\n"
+" Testers: Dead Eye, Luigit and baro_st\n"
+" Translator: RockScorpion</big>\n"
+msgstr ""
+"  \n"
+"<big>                      IV° Torneo Italiano \n"
+"                     di Battle for Wesnoth</big>\n"
+" \n"
+"                                  organizzato da:\n"
+" \n"
+"<big>                                  W.I.F.\n"
+"              WESNOTH ITALIAN FORUM                    \n"
+"                 http://wif.altervista.org\n"
+" \n"
+" Ideatore mappa e creatore scenario originale: Dret\n"
+" Miglioramento codice e correzione bug: mich e Nobun\n"
+" Tester: Dead Eye, Luigit and baro_st\n"
+" Traduttore: RockScorpion</big>\n"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:636
+msgid "ISTRUCTIONS - Dimensional Vortices"
+msgstr "ISTRUZIONI - Vortici Dimensionali"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:648
+msgid ""
+" \n"
+"<big> REMEMBER:\n"
+" from turn 3 the DIMENSIONAL VORTICES will be open.\n"
+" They allow the quick shift to the other side of the map.\n"
+" So you can point more easily to the TACTICAL VICTORY.\n"
+" CAUTION: vortices will open first for the player\n"
+" number two; in this way the disadvantage of \n"
+" starting the game for second is balanced.\n"
+" If a unit after a teleporting movement, for missing \n"
+" space in the destination area, ends in a 'chasm' \n"
+" terrain and can't fly... it will be slained!</big>\n"
+msgstr ""
+" \n"
+"<big> RICORDA:\n"
+" dal turno 3 saranno aperti i VORTICI DIMENSIONALI.\n"
+" Consentono lo spostamento veloce dall'altro lato della mappa.\n"
+" Potrai così puntare più facilmente alla VITTORIA TATTICA.\n"
+" ATTENZIONE: i vortici si apriranno prima per il giocatore\n"
+" numero due; in questo modo si bilancia lo svantaggio\n"
+" di cominciare la partita per secondi. \n"
+" Se un'unità dopo essere stata teletrasportata, per assenza di \n"
+" spazio nell'area di destinazione, finisce in un esagono di \n"
+" 'abisso'  e non è in grado di volare... morirà!</big>\n"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:655
+msgid "ISTRUCTIONS - Tactical Victory"
+msgstr "ISTRUZIONI - Vittoria Tattica"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:661
+msgid ""
+" \n"
+"<big> REMEMBER:\n"
+" You can win the game without kill the enemy leader\n"
+" if you occupy all the 6 MAGIC SOURCES\n"
+" on the map.</big>\n"
+msgstr ""
+" \n"
+"<big> RICORDA:\n"
+" Puoi vincere la partita senza uccidere il leader nemico\n"
+" se occupi tutte e 6 le SORGENTI MAGICHE che trovi\n"
+" sulla mappa.</big>\n"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:668
+msgid "ISTRUCTIONS - Elite Units"
+msgstr "ISTRUZIONI - Unità di elite"
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:674
+msgid ""
+" \n"
+"<big> REMEMBER:\n"
+" The units that you see already positioned on the map are unique \n"
+" and SO UNRECRUITABLE. They are powerful units and represent\n"
+" the elite of you army: try to preserve them.</big>\n"
+msgstr ""
+" \n"
+"<big> RICORDA:\n"
+" Le unità che trovi già posizionate sulla mappa sono uniche \n"
+" e QUINDI NON RECLUTABILI. Sono unità potenti e rappresentano \n"
+" l'elite del tuo esercito: cerca di preservarle.</big>\n"
+
+#. [print]
+#: torneo_wif_2010/torneo_wif_2010.cfg:696
+msgid "The Dimensional Vortices are open!"
+msgstr "I Vortici Dimensionali sono aperti!"
+
+#~ msgid "Player 1"
+#~ msgstr "Giocatore 1"
+#~ msgid "Player 2"
+#~ msgstr "Giocatore 2"
+#~ msgid "<span foreground='green'>You Conquered the Six Magic Sources!</span>"
+#~ msgstr ""
+#~ "<span foreground='green'>Hai Conquistato le Sei Sorgenti Magiche!</span>"
+#~ msgid ""
+#~ " \n"
+#~ "<big>                          YOU WON!</big>"
+#~ msgstr ""
+#~ " \n"
+#~ "<big>                          HAI VINTO!</big>"
+#~ msgid ""
+#~ "<span foreground='red'>Your Enemy Conquered the Six Magic Sorces!</span>"
+#~ msgstr ""
+#~ "<span foreground='red'>Il tuo Nemico ha Conquistato le Sei Sorgenti "
+#~ "Magiche!</span>"
+#~ msgid ""
+#~ " \n"
+#~ "<big>                   YOU WAS DEFEATED!!</big>"
+#~ msgstr ""
+#~ " \n"
+#~ "<big>                   SEI STATO SCONFITTO!!</big>"
+#~ msgid ""
+#~ " \n"
+#~ "<span foreground='red'>CAUTION: ignore the message that Wesnoth will give "
+#~ "you after this, where tell you that you are the winner... it's only a BUG!"
+#~ "</span>"
+#~ msgstr ""
+#~ " \n"
+#~ "<span foreground='red'>ATTENZIONE: ignora il messaggio che Wesnoth ti "
+#~ "dara' dopo questo, in cui dice che sei il vincitore... e' solo un BUG!</"
+#~ "span>"
+#~ msgid "ISTRUCTIONS - Volcano"
+#~ msgstr "ISTRUZIONI - Vulcano"
+#~ msgid ""
+#~ " \n"
+#~ "<big> PAY ATTENTION:\n"
+#~ " The hexagon at the centre of the map is an active volcano! \n"
+#~ " If the flying units stay over it they will receive a damage:\n"
+#~ " 4 pf at the arrival on the hexagon and 4 at the beginning of the next "
+#~ "turn.\n"
+#~ " ONLY THE DRAKES ARE IMMUNE AND DON'T RECEIVE DAMAGES.</big>\n"
+#~ msgstr ""
+#~ " \n"
+#~ "<big> FAI ATTENZIONE:\n"
+#~ " L'esagono al centro della mappa è un vulcano attivo! \n"
+#~ " Se le unità volanti ci stazionano sopra riceveranno un danno:\n"
+#~ " 4 pf all'arrivo sull'esagono e 4 all'inizio del turno successivo.\n"
+#~ " SOLO I DRAGHI NE SONO IMMUNI E NON RICEVONO DANNI.</big>\n"
+#~ msgid "CAUTION!"
+#~ msgstr "ATTENZIONE!"
+#~ msgid ""
+#~ " \n"
+#~ "<big> It's NOT a new monster BUT IS A ERROR IN THE CODE of WESNOTH!\n"
+#~ " \n"
+#~ " At the exit of these version remains an unfixed Bug:\n"
+#~ " \n"
+#~ " Who lose in the Tactical way (the opponent occupies all the 6 Magic "
+#~ "Sources) receives, affter a correct defeat message, an uncorrect one of "
+#~ "victory.\n"
+#~ "\n"
+#~ "Besides there is at the start a waiting time for the loading of the Elite "
+#~ "units.</big>"
+#~ msgstr ""
+#~ " \n"
+#~ "<big> NON si tratta di un un nuovo mostro MA DI UN ERRORE DEL CODICE di "
+#~ "WESNOTH!\n"
+#~ " \n"
+#~ " All'uscita di questa versione dello scenario permane un Bug non "
+#~ "risolto:\n"
+#~ " \n"
+#~ " Chi perde nella modalita' Tattica (l'avversario occupa tutte e 6 le "
+#~ "Sorgenti Magiche) riceve, dopo un corretto messaggio di sconfitta, uno "
+#~ "errato di vittoria.\n"
+#~ "\n"
+#~ "C'e' inoltre all'avvio dello scenario un tempo di attesa per il "
+#~ "caricamento delle unità di Elite.</big>"
+#~ msgid "4"
+#~ msgstr "4"
+
