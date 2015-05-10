@@ -4,3 +4,4 @@
 * Updated WIF_MAGIC_SOURCE to use the compact animation syntax
 * Replaced several {PLACE_IMAGE} in WIF_PLACE_MAP_ITEMS with two [item] tags
 * Merged six [have_unit] in one in the tactical victory event
+* Added check_passability=no in WIF_TELEPORT_ACTION
