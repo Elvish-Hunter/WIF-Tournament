@@ -1,3 +1,4 @@
 * Converted files as UTF-8 without BOM
 * Moved common macros to utils/macros.cfg
 * Added #undef directives to make some macros local to their own files
+* Updated WIF_MAGIC_SOURCE to use the compact animation syntax
