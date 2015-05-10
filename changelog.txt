@@ -2,3 +2,4 @@
 * Moved common macros to utils/macros.cfg
 * Added #undef directives to make some macros local to their own files
 * Updated WIF_MAGIC_SOURCE to use the compact animation syntax
+* Replaced several {PLACE_IMAGE} in WIF_PLACE_MAP_ITEMS with two [item] tags
