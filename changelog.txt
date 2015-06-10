@@ -10,3 +10,4 @@
 * Deleted WIF_CETL_CHECK and WIF_CALCULATE_EFFECTIVE_TELEPORT_LOCATION macros
 * Split "turn 1" event in "prestart" and "start" events, which are now synchronized
 * Added back the historical team colors (team 1: white, team 2: red)
+* Added random_start_time=no and force_lock_settings=yes to the Classic scenario
