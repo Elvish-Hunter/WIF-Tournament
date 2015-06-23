@@ -13,3 +13,4 @@
 * Added random_start_time=no to the Classic scenario
 * Disabled the experimental version of the scenario
 * Added faction_lock=yes and leader_lock=yes to all sides
+* Italian translation updated
